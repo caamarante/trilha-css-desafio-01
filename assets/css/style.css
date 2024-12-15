@@ -14,10 +14,10 @@ body {
 
 .banner-content {
     text-align: center;
-    margin-top: 46px;
     color: white;
     width: 510px;
     margin: auto;
+    padding-top: 56px;
 }
 
 .banner h1 {
@@ -74,4 +74,11 @@ body {
     letter-spacing: 0.19em;
     color: #33A8DB;
     text-transform: uppercase;
+}
+
+#course-content p {
+    font-size 1rem;
+    text-align: center;
+    text-weight: 400;
+    padding: 24px 0;
 }
