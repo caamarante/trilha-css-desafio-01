@@ -122,3 +122,21 @@ body {
     max-width: 244px;
     text-shadow: 3px 2px  #33A8DB;
 }
+
+#professional-challenges {
+    height: 820px;
+    width: 792px;
+    text-align: center;
+    margin: auto;
+}
+
+#professional-challenges h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 37.57px;
+    letter-spacing: 0.19em;
+    color: #33A8DB;
+    text-transform: uppercase;
+    margin-top: 76px;
+    margin-bottom:32px;
+}
