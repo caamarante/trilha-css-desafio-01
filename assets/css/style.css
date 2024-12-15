@@ -37,6 +37,20 @@ body {
     margin-top: 16px;
 }
 
+.banner button {
+    margin-top: 16px;
+    color: #31A8DD;
+    font-size: 1rem;
+    font-weight: 900;
+    padding: 19px 46px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    background-color: transparent;
+    border-image: linear-gradient(#3BA1CD, #1572B7);
+    border-image-slice: 10;
+
+}
+
 .logo {
     width: 268px;
     height: 268px;
@@ -45,3 +59,4 @@ body {
     align-content: center;
     margin: auto;
 }
+
