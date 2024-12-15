@@ -82,3 +82,18 @@ body {
     text-weight: 400;
     padding: 24px 0;
 }
+
+.modules-list {
+    width: 535px;
+    margin: auto;
+}
+
+.modules-list .module {
+    border: 1px solid #33A8DB;
+    border-radius: 57px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-bottom: 24px;
+    background-color: #252525;
+    box-shadow: -2px 6px 4px 0px rgba(0, 0, 0, 0.4) inset;
+}
