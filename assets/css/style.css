@@ -18,3 +18,11 @@ body {
     color: white;
 }
 
+.logo {
+    width: 268px;
+    height: 268px;
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 50%;
+    align-content: center;
+    margin: auto;
+}
