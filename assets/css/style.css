@@ -147,3 +147,11 @@ body {
     font-weight: 400;
     margin-top: 40px; 
 }
+
+footer {
+    text-align: center;
+    margin: auto; 
+    height: 170px;
+    border-top: 1px solid #33A8DB;
+    padding-top: 59px;
+}
