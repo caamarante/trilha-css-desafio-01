@@ -60,3 +60,10 @@ body {
     margin: auto;
 }
 
+#course-content {
+    color: white;
+    width: 792px;
+    text-align: center;
+    margin: auto;
+    margin-top: 118px;
+}
