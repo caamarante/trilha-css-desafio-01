@@ -67,3 +67,11 @@ body {
     margin: auto;
     margin-top: 118px;
 }
+
+#course-content h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    letter-spacing: 0.19em;
+    color: #33A8DB;
+    text-transform: uppercase;
+}
