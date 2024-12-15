@@ -97,3 +97,7 @@ body {
     background-color: #252525;
     box-shadow: -2px 6px 4px 0px rgba(0, 0, 0, 0.4) inset;
 }
+
+.module span {
+    color: #33A8DB;
+}
