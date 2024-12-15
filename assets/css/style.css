@@ -140,3 +140,10 @@ body {
     margin-top: 76px;
     margin-bottom:32px;
 }
+
+#professional-challenges p {
+    color: white;
+    font-size: 1rem;
+    font-weight: 400;
+    margin-top: 40px; 
+}
